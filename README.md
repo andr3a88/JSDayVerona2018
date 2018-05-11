@@ -6,13 +6,13 @@ Joind: [https://joind.in/event/jsday-2018](https://joind.in/event/jsday-2018)
 
 # Wednesday, May 9TH
 
-## Keynote
+## 👨🏼‍💻 Keynote
 
 **Pinterest ❤️ Mobile Web -  Keynote by Zack Argyle**
 
 + [Slides](slides/Pinterest__️Mobile_Web__jsdays.pdf)
 
-## Frontendy track
+## 🖥 Frontendy track
 	
 **My journey with WebGL  - Luigi De Rosa**
 
@@ -40,7 +40,7 @@ Joind: [https://joind.in/event/jsday-2018](https://joind.in/event/jsday-2018)
 
 + [Code](https://github.com/AuroreM/verona-live)
 
-## Backendy track
+## ⚙️ Backendy track
 
 **HTTP2, one frame at a time - Irina Shestak**
 
@@ -69,13 +69,13 @@ Joind: [https://joind.in/event/jsday-2018](https://joind.in/event/jsday-2018)
 
 # Thursday, May 10TH
 
-## Keynote
+## 👨🏼‍💻 Keynote
 
 **Everything is awesome: the Lego approach to being an awesome coworker - Paul Verbeek-Mast**
 
 + [Slides](slides/Everything_is_awesome.pdf)
 
-## Frontendy track
+## 🖥 Frontendy track
 
 **StranglerApplication pattern: a legacy frontend use case - Francesco Strazzullo**
 
@@ -105,7 +105,7 @@ Joind: [https://joind.in/event/jsday-2018](https://joind.in/event/jsday-2018)
 
 + [Slides](slides/BiranHolt10kbOrBust.pdf)
 
-## Backendy track
+## ⚙️Backendy track
 
 **Node Microservices - the definitive guide - Ivan Jovanovic**
 
@@ -113,7 +113,7 @@ Joind: [https://joind.in/event/jsday-2018](https://joind.in/event/jsday-2018)
 
 **Finding Your Voice: Building Screenless Interfaces with Node.js - Nara Kasbergen**
 
-[Slides](slides/Finding_Your_Voice__Building_Screenless_Interfaces_with_Node.js.pdf)
++ [Slides](slides/Finding_Your_Voice__Building_Screenless_Interfaces_with_Node.js.pdf)
 
 **Node.js Security: Breaking The Loop - Liran Tal**
 
@@ -131,7 +131,7 @@ Joind: [https://joind.in/event/jsday-2018](https://joind.in/event/jsday-2018)
 
 + Slides
 
-## Keynote
+## 👩🏻‍💻 Keynote
 
 **Your brain doesn't have a fix flag - by Sara Vieira**
 
