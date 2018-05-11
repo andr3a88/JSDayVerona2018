@@ -66,8 +66,7 @@ Joind: [https://joind.in/event/jsday-2018](https://joind.in/event/jsday-2018)
 
 + [Slides](slides/ts-js-you-gonna-love.pdf)
 
-
-# Thursday, May 10TH
+# Thursday, May 10TH
 
 ## 👨🏼‍💻 Keynote
 
