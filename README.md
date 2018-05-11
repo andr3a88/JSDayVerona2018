@@ -4,17 +4,18 @@ Website: [https://2018.jsday.it/schedule.html](https://2018.jsday.it/schedule.ht
 
 Joind: [https://joind.in/event/jsday-2018](https://joind.in/event/jsday-2018)
 
-## WEDNESDAY, MAY 9TH
+# WEDNESDAY, MAY 9TH
 
-### Keynote
+## Keynote
 
 **Pinterest ❤️ Mobile Web -  Keynote by Zack Argyle**
 
 [Slides](slides/Pinterest__️Mobile_Web__jsdays.pdf)
 
-### Frontendy track
+## Frontendy track
 	
-#### My journey with WebGL  - Luigi De Rosa
+**My journey with WebGL  - Luigi De Rosa**
+
 Slides 
 
 **ES Modules: The next revolution? - Nir Noy**
@@ -39,9 +40,10 @@ Slides
 
 [Code](https://github.com/AuroreM/verona-live)
 
-### Backendy track
+## Backendy track
 
-#### HTTP2, one frame at a time - Irina Shestak
+**HTTP2, one frame at a time - Irina Shestak**
+
 [Slides](slides/http2.pdf)
 
 **The future will be Serverless - Luciano Mammino**
@@ -64,15 +66,16 @@ Slides
 
 [Slides](slides/ts-js-you-gonna-love.pdf)
 
-## THURSDAY, MAY 10TH
 
-### Keynote
+# THURSDAY, MAY 10TH
+
+## Keynote
 
 **Everything is awesome: the Lego approach to being an awesome coworker - Paul Verbeek-Mast**
 
 [Slides](slides/Everything_is_awesome.pdf)
 
-### Frontendy track
+## Frontendy track
 
 **StranglerApplication pattern: a legacy frontend use case - Francesco Strazzullo**
 
@@ -102,7 +105,7 @@ Slides
 
 [Slides](slides/BiranHolt10kbOrBust.pdf)
 
-### Backendy track
+## Backendy track
 
 **Node Microservices - the definitive guide - Ivan Jovanovic**
 
@@ -128,7 +131,7 @@ Slides
 
 Slides
 
-### Keynote
+## Keynote
 
 **Your brain doesn't have a fix flag - by Sara Vieira**
 
